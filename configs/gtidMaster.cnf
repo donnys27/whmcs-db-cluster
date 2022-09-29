@@ -1,7 +1,7 @@
 [mysqld]
 server-id = 
-gtid_mode=ON
-enforce_gtid_consistency=ON
+;gtid_mode=ON
+;enforce_gtid_consistency=ON
 auto-increment-increment = 2
 auto-increment-offset = 
 binlog_format = mixed
